@@ -29,7 +29,7 @@ import numpy as np
 from termcolor import colored
 #import subprocess
 
-
+sys.path.append("/home/azim_se")
 np.random.seed(5) # for reproducibility
 progress = progressbar.ProgressBar(widgets=[progressbar.Bar('*', '[', ']'), progressbar.Percentage(), ' '])
 
