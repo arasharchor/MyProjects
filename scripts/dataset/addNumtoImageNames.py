@@ -14,7 +14,6 @@ Usage: Python addNumtoImageNames.py --Train_DIR --Test_DIR --Together_DIR
 Author: Seyed Majid Azimi
 Date: 11th September 2017
 
-Deutsches Zentrum für Luft und Raumfahrt e.V DLR
 
 """
 
